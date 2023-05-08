@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python3 specific files
+.pyre/
+.jupyter/
+pip-log.txt
+pip-delete-this-directory.txt
+__pypackages__/
+*/*/pycache/*
+*/*/__pycache__/*
+
+# Environments
+colt
+env/
+venv/
+ENV/
+env.bak/
+env1/
+*.venv
+.venv/
+env/
+.venv/
+venv*/
+.venv*/
+*.env
+
+# Ignore the pipenv generated files
+Pipfile.lock
+pipfile.lock
